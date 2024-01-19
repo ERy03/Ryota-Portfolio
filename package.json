@@ -1,11 +1,11 @@
 {
-	"name": "reactfolio",
-	"version": "1.1.0",
-	"description": "Personal portfolio template built using Reactjs",
+	"name": "ryota-portfolio",
+	"version": "1.0.0",
+	"homepage": "https://ery03.github.io/Ryota-Portfolio",
+	"description": "Ryota's portfolio built with React",
 	"author": {
-		"name": "Tharindu N. Madhusanka",
-		"email": "mail@tharindu.dev",
-		"url": "https://tharindu.dev"
+		"name": "Ryota Enoki",
+		"email": "ryoenoki21@gmail.com"
 	},
 	"license": "MIT",
 	"private": true,
@@ -28,6 +28,8 @@
 		"web-vitals": "^2.1.4"
 	},
 	"scripts": {
+		"predeploy": "npm run build",
+		"deploy": "gh-pages -d build",
 		"start": "react-scripts start",
 		"build": "react-scripts build",
 		"test": "react-scripts test",
@@ -54,5 +56,8 @@
 	"prettier": {
 		"useTabs": true,
 		"tabWidth": 4
+	},
+	"devDependencies": {
+		"gh-pages": "^6.1.1"
 	}
 }
