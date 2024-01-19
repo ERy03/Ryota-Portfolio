@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Ryota-Portfolio/static/css/main.a2f909a5.css",
-    "main.js": "/Ryota-Portfolio/static/js/main.9b86ea09.js",
+    "main.js": "/Ryota-Portfolio/static/js/main.d4b25372.js",
     "static/js/787.5f4c30b7.chunk.js": "/Ryota-Portfolio/static/js/787.5f4c30b7.chunk.js",
     "index.html": "/Ryota-Portfolio/index.html",
     "main.a2f909a5.css.map": "/Ryota-Portfolio/static/css/main.a2f909a5.css.map",
-    "main.9b86ea09.js.map": "/Ryota-Portfolio/static/js/main.9b86ea09.js.map",
+    "main.d4b25372.js.map": "/Ryota-Portfolio/static/js/main.d4b25372.js.map",
     "787.5f4c30b7.chunk.js.map": "/Ryota-Portfolio/static/js/787.5f4c30b7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a2f909a5.css",
-    "static/js/main.9b86ea09.js"
+    "static/js/main.d4b25372.js"
   ]
 }
