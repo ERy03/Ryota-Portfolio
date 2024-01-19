@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Ryota-Portfolio/home/static/css/main.a2f909a5.css",
-    "main.js": "/Ryota-Portfolio/home/static/js/main.be7d2665.js",
-    "static/js/787.5f4c30b7.chunk.js": "/Ryota-Portfolio/home/static/js/787.5f4c30b7.chunk.js",
-    "index.html": "/Ryota-Portfolio/home/index.html",
-    "main.a2f909a5.css.map": "/Ryota-Portfolio/home/static/css/main.a2f909a5.css.map",
-    "main.be7d2665.js.map": "/Ryota-Portfolio/home/static/js/main.be7d2665.js.map",
-    "787.5f4c30b7.chunk.js.map": "/Ryota-Portfolio/home/static/js/787.5f4c30b7.chunk.js.map"
+    "main.css": "/Ryota-Portfolio/static/css/main.a2f909a5.css",
+    "main.js": "/Ryota-Portfolio/static/js/main.312f2f4d.js",
+    "static/js/787.5f4c30b7.chunk.js": "/Ryota-Portfolio/static/js/787.5f4c30b7.chunk.js",
+    "index.html": "/Ryota-Portfolio/index.html",
+    "main.a2f909a5.css.map": "/Ryota-Portfolio/static/css/main.a2f909a5.css.map",
+    "main.312f2f4d.js.map": "/Ryota-Portfolio/static/js/main.312f2f4d.js.map",
+    "787.5f4c30b7.chunk.js.map": "/Ryota-Portfolio/static/js/787.5f4c30b7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a2f909a5.css",
-    "static/js/main.be7d2665.js"
+    "static/js/main.312f2f4d.js"
   ]
 }
