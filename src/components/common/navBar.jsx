@@ -19,7 +19,7 @@ const NavBar = (props) => {
 										: "nav-item"
 								}
 							>
-								<Link to="/">Home</Link>
+								<Link to="/Ryota-Portfolio/">Home</Link>
 							</li>
 							<li
 								className={
@@ -28,7 +28,7 @@ const NavBar = (props) => {
 										: "nav-item"
 								}
 							>
-								<Link to="/about">About</Link>
+								<Link to="/Ryota-Portfolio/about">About</Link>
 							</li>
 							<li
 								className={
@@ -37,7 +37,9 @@ const NavBar = (props) => {
 										: "nav-item"
 								}
 							>
-								<Link to="/projects">Projects</Link>
+								<Link to="/Ryota-Portfolio/projects">
+									Projects
+								</Link>
 							</li>
 							<li
 								className={
@@ -46,7 +48,9 @@ const NavBar = (props) => {
 										: "nav-item"
 								}
 							>
-								<Link to="/contact">Contact</Link>
+								<Link to="/Ryota-Portfolio/contact">
+									Contact
+								</Link>
 							</li>
 						</ul>
 					</div>

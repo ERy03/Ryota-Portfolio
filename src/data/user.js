@@ -85,7 +85,7 @@ const INFO = {
 			logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg",
 			linkText: "View Project",
 			link: "https://github.com/ERy03/albert_heijn_clone",
-			preview: "/albert-heijn-clone.png",
+			preview: "albert-heijn-clone.png",
 		},
 
 		{
@@ -95,7 +95,7 @@ const INFO = {
 			logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg",
 			linkText: "View Project",
 			link: "https://github.com/ERy03/fruits-store",
-			preview: "/fruit-market.jpg",
+			preview: "fruit-market.jpg",
 		},
 
 		{

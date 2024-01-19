@@ -21,10 +21,13 @@ function App() {
 	return (
 		<div className="App">
 			<Routes>
-				<Route path="/" element={<Homepage />} />
-				<Route path="/about" element={<About />} />
-				<Route path="/projects" element={<Projects />} />
-				<Route path="/contact" element={<Contact />} />
+				<Route path="/Ryota-Portfolio" element={<Homepage />} />
+				<Route path="/Ryota-Portfolio/about" element={<About />} />
+				<Route
+					path="/Ryota-Portfolio/projects"
+					element={<Projects />}
+				/>
+				<Route path="/Ryota-Portfolio/contact" element={<Contact />} />
 				<Route path="*" element={<Notfound />} />
 			</Routes>
 		</div>
