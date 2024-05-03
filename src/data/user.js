@@ -84,6 +84,14 @@ const INFO = {
 
 	projects: [
 		{
+			title: "GitHub Repository Finder",
+			description: "Find GitHub repositories with GitHub's REST API.",
+			logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg",
+			linkText: "View Project",
+			link: "https://github.com/ERy03/GitHub-Repository-Finder",
+			preview: "github_repo_search.png",
+		},
+		{
 			title: "Albert Heijn Clone",
 			description: "A Flutter clone project of Albert Heijn's app",
 			logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg",
@@ -91,7 +99,6 @@ const INFO = {
 			link: "https://github.com/ERy03/albert_heijn_clone",
 			preview: "albert-heijn-clone.png",
 		},
-
 		{
 			title: "Fruits Market",
 			description:
@@ -101,7 +108,6 @@ const INFO = {
 			link: "https://github.com/ERy03/fruits-store",
 			preview: "fruit-market.jpg",
 		},
-
 		{
 			title: "Game List App",
 			description:
@@ -111,7 +117,6 @@ const INFO = {
 			link: "https://github.com/ERy03/Game-List",
 			preview: "game-list.png",
 		},
-
 		{
 			title: "Threads clone",
 			description:
