@@ -10,16 +10,16 @@ const Footer = () => {
 				<div className="footer-links">
 					<ul className="footer-nav-link-list">
 						<li className="footer-nav-link-item">
-							<Link to="/Ryota-Portfolio/">Home</Link>
+							<Link to="/">Home</Link>
 						</li>
 						<li className="footer-nav-link-item">
-							<Link to="/Ryota-Portfolio/about">About</Link>
+							<Link to="/about">About</Link>
 						</li>
 						<li className="footer-nav-link-item">
-							<Link to="/Ryota-Portfolio/projects">Projects</Link>
+							<Link to="/projects">Projects</Link>
 						</li>
 						<li className="footer-nav-link-item">
-							<Link to="/Ryota-Portfolio/contact">Contact</Link>
+							<Link to="/contact">Contact</Link>
 						</li>
 					</ul>
 				</div>
