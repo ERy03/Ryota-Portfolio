@@ -41,7 +41,7 @@ const INFO = {
 		},
 		{
 			tech: "Tailwind",
-			image: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg",
+			image: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg",
 		},
 		{
 			tech: "Mongodb",
@@ -62,6 +62,10 @@ const INFO = {
 		{
 			tech: "Firebase",
 			image: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg",
+		},
+		{
+			tech: "C",
+			image: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg",
 		},
 	],
 
