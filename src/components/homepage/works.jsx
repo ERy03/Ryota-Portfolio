@@ -15,8 +15,23 @@ const Works = () => {
 					<div className="works-body">
 						<div className="work">
 							<img
+								src="./lewagon.png"
+								alt="le wagon"
+								className="work-image"
+							/>
+							<div className="work-title">Le Wagon</div>
+							<div className="work-subtitle">
+								Teacher Assistant
+							</div>
+							<div className="work-duration">
+								Feb 2024 - Present
+							</div>
+						</div>
+
+						<div className="work">
+							<img
 								src="./dreamly-logo.png"
-								alt="facebook"
+								alt="dreamly"
 								className="work-image"
 							/>
 							<div className="work-title">Dreamly</div>
@@ -31,7 +46,7 @@ const Works = () => {
 						<div className="work">
 							<img
 								src="./earth-technology-logo.png"
-								alt="twitter"
+								alt="earth technology"
 								className="work-image"
 							/>
 							<div className="work-title">Earth Technology</div>
