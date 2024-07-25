@@ -24,7 +24,7 @@ const Works = () => {
 								Teacher Assistant
 							</div>
 							<div className="work-duration">
-								Feb 2024 - Present
+								Feb 2024 - Jun 2024
 							</div>
 						</div>
 
