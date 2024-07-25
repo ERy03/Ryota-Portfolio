@@ -3,7 +3,14 @@ const SEO = [
 		page: "home",
 		description:
 			"Japanese software developer born and raised in Central America. I've lived in El Salvador, Guatemala, Honduras, and Nicaragua. Highly skilled in communication and experienced with Flutter, Javascript, React, Ruby, and other developing tools like Git and Github. Having experience working for a startup, I’m comfortable in a fast-paced, autonomous work environment while maintaining the ability to effectively collaborate with team members. Currently based in the Netherlands, working with Flutter to create mobile apps. I enjoy learning new technologies and coding to make user-friendly websites and apps that can impact people.",
-		keywords: ["Ryota", "Ryota E", "Ryota Enoki"],
+		keywords: [
+			"Ryota",
+			"Ryota E",
+			"Ryota Enoki",
+			"Software developer",
+			"Flutter developer",
+			"榎 良太",
+		],
 	},
 
 	{
@@ -17,6 +24,7 @@ const SEO = [
 			"Software developer",
 			"Flutter developer",
 			"React Developer",
+			"榎 良太",
 		],
 	},
 
@@ -34,6 +42,7 @@ const SEO = [
 			"Riverpod",
 			"Javascript",
 			"Tailwind",
+			"榎 良太",
 		],
 	},
 
@@ -48,6 +57,7 @@ const SEO = [
 			"Software developer",
 			"Flutter developer",
 			"React Developer",
+			"榎 良太",
 		],
 	},
 ];
