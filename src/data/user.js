@@ -85,11 +85,21 @@ const INFO = {
 	projects: [
 		{
 			title: "GitHub Repository Finder",
-			description: "Find GitHub repositories with GitHub's REST API.",
+			description:
+				"Find GitHub repositories with GitHub's REST API. Uses Rivepod for state management. Includes unit tests, widget tests, and github actions for CI.",
 			logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg",
 			linkText: "View Project",
 			link: "https://github.com/ERy03/GitHub-Repository-Finder",
 			preview: "github_repo_search.png",
+		},
+		{
+			title: "Netherlands Locals Osusume",
+			description:
+				"Rails app built with Bootstrap, Stimulus, Cloudinary, and PostgreSQL. It's live!",
+			logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg",
+			linkText: "View Project",
+			link: "https://github.com/ERy03/netherlands_locals_osusume",
+			preview: "netherlands_locals_osusume.jpg",
 		},
 		{
 			title: "Albert Heijn Clone",
